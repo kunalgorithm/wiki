@@ -39,6 +39,7 @@ git merge <feature-branch>
 
 ## Rebasing
 
+Find more at the these [docs](https://git-scm.com/docs/git-rebase.)
 Rebasing is another way of combining work between commits. Rebasing takes a set of commits, "copies" them, and plops them down somewhere else.
 
 Do work on two different branches
