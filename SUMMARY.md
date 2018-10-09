@@ -7,4 +7,4 @@
 -   [Online Courses](online-courses.md)
 -   [Health ](health.md)
 -   [Programming](programming.md)
-    -   [Git](programming/git-branching.md)
+    -   [Git Branching](programming/git-branching.md)
