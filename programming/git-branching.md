@@ -43,19 +43,19 @@ Rebasing is another way of combining work between commits. Rebasing takes a set 
 
 Do work on two different branches
 
-```
+```bash
 git checkout -b feature && git commit
 git checkout master && git commit
 ```
 
 Replay one commit on top of the other
 
-```
+```bash
 git checkout feature
 git rebase master
 ```
 
-![](https://cdn-images-1.medium.com/max/1600/1*W-soT3vkC9VfCacHLl75bA.gif)
+![alt](https://cdn-images-1.medium.com/max/1600/1*W-soT3vkC9VfCacHLl75bA.gif)
 
 ## Moving around branches
 
