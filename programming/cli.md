@@ -4,13 +4,14 @@
 
 ## Tools installed globalled
 
-`tldr` [Source](https://github.com/tldr-pages/tldr) - Simplified and community-driven `man` pages
+⚡️ [`now`](https://now.sh) - Instant serverless deployments with ZEIT now. It's my go-to for all static site and nodeJS application deployments.
+→[`tldr`](https://github.com/tldr-pages/tldr) - Simplified and community-driven `man` pages
 ()[]
 
-`fuck` [Source](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+❗️[`fuck`](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
-![thefuck](assets/thefuck.png)
+![thefuck screenshot](/assets/thefuck.png)
 
-`how2` [Source](https://github.com/santinic/how2) - Search Stackoverflow from the Terminal
+❓[`how2`](https://github.com/santinic/how2) - Search Stackoverflow from the Terminal
 
-![how2](assets/how2.png)
+![how2 screenshot](/assets/how2.png)
