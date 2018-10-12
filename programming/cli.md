@@ -15,3 +15,5 @@
 ❓[`how2`](https://github.com/santinic/how2) - Search Stackoverflow from the Terminal
 
 ![how2 screenshot](/assets/how2.png)
+
+❓[`ghwd`](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
