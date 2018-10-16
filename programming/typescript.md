@@ -1,7 +1,7 @@
 
 # TypeScript
 
-Developers should be able to focus on creating amazing things. Code, at the end of the day, is just a tool to build amazing applicaitons and experiences. However, developers often spend far more time understanding and maintaining code than writing new code.
+Developers should be able to focus on creating amazing things. Code, at the end of the day, is just a tool to build amazing applications and experiences. However, developers often spend far more time understanding and maintaining code than writing new code.
 
 With JavaScript, the larger a codebase gets, the harder it gets to maintain.
 

@@ -11,5 +11,5 @@
 - [Programming](programming.md)
   - [Git Branching](programming/git-branching.md)
   - [Command Line Tools](programming/cli.md)
-  - [JavaScript](javascript.md)
-  - [TypeScript](typescript.md)
+  - [JavaScript](programming/javascript.md)
+  - [TypeScript](programming/typescript.md)
