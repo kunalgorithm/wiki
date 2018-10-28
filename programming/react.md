@@ -11,3 +11,12 @@ ReactDom.render(
 )
 ```
 
+
+
+## Concepts 
+
+- [Concepts to become an advanced React developer](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
+- [Compose, don't inherit](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+- [Hooks](https://reactjs.org/docs/hooks-intro.html)
+
