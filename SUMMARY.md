@@ -1,7 +1,7 @@
 # Summary
 
 -   [Introduction](README.md)
--   [About](about.md)
+-   [Meta](meta.md)
 -   [Sharing ](sharing.md)
 -   [Books ](books.md)
 -   [Online Courses](online-courses.md)
