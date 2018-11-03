@@ -6,14 +6,13 @@ Pinyin is the pronunciation of each character in Chinese. Pinyin includes differ
 
 ## Resources
 
--   [Domino Chinese](https://www.dominochinese.com) - extraordinary online course that's helpful to get started learning Chinese.
--   [Duolingo](duolingo.com) - useful for gamified vocabulary acquisition on the go.
+- [Domino Chinese](https://www.dominochinese.com) - extraordinary online course that's helpful to get started learning Chinese.
+- [Duolingo](duolingo.com) - useful for gamified vocabulary acquisition on the go.
 
--   [Type Chinese on your Mac](http://pinpinchinese.com/blog/how-to-use-pinyin-to-type-chinese-mac/)
+- [Type Chinese on your Mac](http://pinpinchinese.com/blog/how-to-use-pinyin-to-type-chinese-mac/)
 
--   [Type Pinyin characters on your Mac](http://pinpinchinese.com/blog/how-to-type-pinyin-tone-marks-mac-os-x-yosemite/)
+- [Type Pinyin characters on your Mac](http://pinpinchinese.com/blog/how-to-type-pinyin-tone-marks-mac-os-x-yosemite/)
 
--   [Pinyin Pronunciation Chart](http://www.learnhanzi.com/pronunciation/pinyinchart.php)
+- [Pinyin Pronunciation Chart](http://www.learnhanzi.com/pronunciation/pinyinchart.php)
 
-
-It's also useful to use  `Caps Lock` on Mac to change Keyboard languages ![image-20181103171812763](/Users/Kunal/Projects/wiki/chinese/assets/image-20181103171812763.png)
+It's also useful to use `Caps Lock` on Mac to change Keyboard languages ![image-20181103171812763](/Users/Kunal/Desktop/wiki/assets/keyboard.png)
