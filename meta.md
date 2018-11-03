@@ -17,7 +17,7 @@
 - I create folders and make other structural changes to the wiki using the command line or Sublime Text.
 -
 - I write content using [Typora](typora.io) because it's the simplest, most good-looking, distraction-free markdown editor I've found. I've previously used VSCode or Sublime text to write raw markdown directly.
-- ![Typora](/Users/Kunal/Desktop/wiki/assets/typora.png)
+- ![Typora](/assets/typora.png)
 
 ## Content Structure
 

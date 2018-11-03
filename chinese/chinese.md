@@ -15,4 +15,4 @@ Pinyin is the pronunciation of each character in Chinese. Pinyin includes differ
 
 - [Pinyin Pronunciation Chart](http://www.learnhanzi.com/pronunciation/pinyinchart.php)
 
-It's also useful to use `Caps Lock` on Mac to change Keyboard languages ![image-20181103171812763](/Users/Kunal/Desktop/wiki/assets/keyboard.png)
+It's also useful to use `Caps Lock` on Mac to change Keyboard languages ![image-20181103171812763](/assets/keyboard.png)
