@@ -1,3 +1,3 @@
 # Mac
 
-![My mac](assets/my-mac.png)
+![mac](/assets/my-mac.png)
