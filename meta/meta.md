@@ -2,22 +2,23 @@
 
 - The contents of this wiki is written entirely in Markdown. I chose markdown because it is the standard format for documentation in software development and on Github. Also, it allows for the creation of formatted content without relying on any one application or word-processing software.
 
-  - I considered using [MDX](https://github.com/mdx-js/mdx) to support JSX/React Components, but ultimately decided against it.
+  - I considered using [MDX][1] to support JSX/React Components, but ultimately decided against it.
 
-- This entire wiki is contained in one folder and hosted on my [Github](https://github.com/kunalgorithm/wiki). It contains markdown files and layers of subfolders.
+- This entire wiki is contained in one folder and hosted on my [Github][2]. It contains markdown files and layers of subfolders.
 
-- This wiki is published with [Gitbooks](legacy.gitbook.com) Legacy, which integrates with my Github account to automatically publish all changes pushed to the repository. My custom domain name (currently and temporarily [`wiki.kunal.space`](wiki.kunal.space) ) points and directly visitors to the published website.
+- This wiki is published with [Gitbooks][3] Legacy, which integrates with my Github account to automatically publish all changes pushed to the repository. My custom domain name (currently and temporarily [`wiki.kunal.space`][4] ) points and directly visitors to the published website.
 
 - I use `git` from the command line to save and push changes to be published to Github.
 
-  ![git-push](/Users/Kunal/Desktop/wiki/assets/git-push.png)
+  ![git-push][image-1]
 
-## Writin and Making Changes
+## Writing and Making Changes
 
 - I create folders and make other structural changes to the wiki using the command line or Sublime Text.
 -
-- I write content using [Typora](typora.io) because it's the simplest, most good-looking, distraction-free markdown editor I've found. I've previously used VSCode or Sublime text to write raw markdown directly.
-- ![Typora](/assets/typora.png)
+- I write content using [Typora][5] because it's the simplest, most good-looking, distraction-free markdown editor I've found. I've previously used VSCode or Sublime text to write raw markdown directly.
+- ![Typora][image-2]
+- My wiki is locally stored under my Dropbox Account, so I can made edits on my phone using the [Ulysses][6] app.
 
 ## Content Structure
 
@@ -42,3 +43,12 @@ A discussion of what I found interesting, provocative, thoughtful, etc.
 
 Links related to learning (more) about the topic.
 ```
+
+[1]: https://github.com/mdx-js/mdx
+[2]: https://github.com/kunalgorithm/wiki
+[3]: legacy.gitbook.com
+[4]: wiki.kunal.space
+[5]: typora.io
+[6]: ulysses.app
+[image-1]: /Users/Kunal/Desktop/wiki/assets/git-push.png
+[image-2]: /assets/typora.png
