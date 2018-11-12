@@ -2,7 +2,7 @@
 
 This wiki is thorough documentation of what I know, what I'm learning, and what I intend to learn. It's primarily for my personal use as a universal notebook, but I've tried to make it as reader-friendly as possible and made it publically available in case it may be useful to anyone else.
 
-You can find the source code repository for this wiki [here](https://github.com/kunalgorithm/wiki). For more information about the physical structure of this project and my procedures for maintaining it, visit the [meta](meta.md) section.  
+You can find the source code repository for this wiki [here](https://github.com/kunalgorithm/wiki). For more information about the physical structure of this project and my procedures for maintaining it, visit the [meta](/meta/meta.md) section.  
 
 ## Rules 
 
