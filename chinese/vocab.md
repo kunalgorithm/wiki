@@ -1,4 +1,4 @@
-# Chinese Vocabulary
+# Chinese Fundamentals
 
 This file is a mind-dump of notes, references, characters, and definitions that I built as a I began to learn Chinese. Consequently, it's a disorganized shitshow of a document and won't be too useful in learning or reviewing. Creating your own, however, would be a different story.
 
@@ -40,11 +40,7 @@ The idea won't give you the entire meaning of a word, but it can come close.
 
 ## Context & Tones
 
-How do we differentiate between characters in speech?
-
-ie. 白 versus 百 ?? bai vs bai
-
-Context and **Tones**
+How do we differentiate between characters in speech? ie. 白 versus 百 ?? bai vs bai
 
 There are 4 tones.
 
@@ -56,7 +52,7 @@ There are 4 tones.
 
 4. Down tone?
 
-    ![image-20181031155930813](/assets/tones.png)
+	![image-20181031155930813][image-1]
 
 ## People and Countries
 
@@ -126,7 +122,7 @@ Similarly, when followed by a fourth tone, a first tone changes to a second tone
 
 -   我要！ 我也要！
 
-    **Rule**： 也 comes after the pronoun!
+	**Rule**： 也 comes after the pronoun!
 
 -   她 - tā - she/her: woman, also.
 
@@ -140,7 +136,7 @@ Similarly, when followed by a fourth tone, a first tone changes to a second tone
 
 ## All Pronouns
 
-![image-20181102203657740](/assets/pronouns.png)
+![image-20181102203657740][image-2]
 
 ## Measure Words
 
@@ -229,7 +225,15 @@ step + tough = very
 
 我很恨你 = I hate you very much. **wo hěn hèn ni** which is "**I very hate you.**"
 
+
+
+### Some more numbers
+
 一二三四五六七八九十
+
+三十四 = 34
+
+二十六 = 26
 
 五个四 = five fours 🂤
 
@@ -267,7 +271,7 @@ step + tough = very
 
 你呢 = what about you?
 
-你还。你还。你好吗？我很好。你呢？我也很好。
+你好。你好。你好吗？我很好。你呢？我也很好。
 
 ... 吧 = ba = suggestive particle (let us, right?, isn't it? )
 
@@ -277,11 +281,13 @@ step + tough = very
 
 可以吗？ = may I? 
 
-可以, 可以 = yes, you can! 
+可以, 可以 = yes, you can!
 
 
 
-### Answering questions in Chinese 
+
+
+### Answering questions in Chinese
 
 When answering something in Chinese, all you need to remember is what the question is. You take the core from the question and mirror it back to the asked. So you can respond to 可以吗 with 可以 or 不可以！
 
@@ -290,3 +296,171 @@ For example
 - What will it be? This or that? 
 - This and that!  都可以！ All OK！
 
+
+
+
+
+### More Vocab
+
+帅 - shuài - handsome
+
+姐姐 - jiě jiě - older sister
+
+且 - long time  
+
+小姐 - waittress/young woman
+
+帅哥 = handsome guy 
+
+弟弟 = dìdì = little brother (can also mean your *little member*)
+
+ 妹妹 = mèimèi = younger sister =  *woman + not yet.* 
+
+叫 = jiào = to call or be called 
+
+我叫Kunal
+
+教 = jiàō (pronounced different ways) = to teach 
+
+孝 = filial piety。 break 孝 down：
+
+- 土 earth, 一块 
+- 子 child
+
+什么 = Shénme (n is essentially silent) = What 😵
+
+那个 =  ne gè = That
+
+这个 = zhè gè = This
+
+字 = Chinese Character = child + roof 
+
+打字 = "hit characters" = to type 
+
+### Vocab
+
+帅，你很帅，帅哥，弟弟，未，妹妹，叫，那个叫Snow，孝，教，我教Ann，四是四，什，什么， 你好么， 那个是什么？字，打字, 。
+
+
+
+### Names
+
+名字 = míng zi = name 
+
+你叫什么？= You called what = What is your name?
+
+那个叫什么？
+
+你叫什么名字？= What is your name? (explicitly)
+
+ 那个叫。。。 = what do you call... 
+
+你要什么? = what do you want? 
+
+
+
+### Why
+
+为 = wèi = for 
+
+为什么 = for what = why 
+
+因 = yīn = reason 
+
+因为 = because
+
+为什么？ 因为! 所以。。 = why? because! so... 
+
+你很美， 所以我要你 = a straightforward way of conveying affection 
+
+
+
+### 勹 = building block character that means "Wrap"
+
+包 = bāo = bag
+
+钱包 = money bag = wallet
+
+勺子 = spoon 
+
+我要个勺子 = I want a spoon 
+
+句 = jù = sentence
+
+
+
+### Vocabulary
+
+那个是什么子？
+
+ 名， 你叫什么名字？ 你教什么？ 
+
+为， 为什么？ 因为，为什么不？
+
+ 你为什么不要我？
+
+所以呢？ 
+
+可以。
+
+你很美, 所以我要你。
+
+勹。包。包子。我要个包子。打包。钱包。勺子。句。
+
+
+
+### 的
+
+狗 = gǒu = dog = animal + sentence 
+
+![image-20181105151125644][image-3]
+
+猫 = māo = cat 🐱 = animal + grass + field
+
+的 = de  = white + spoon = possessive particle 
+
+Ann's = Ann的 = of Ann 
+
+我的勺子 = my spoon
+
+的 turns nouns into adjectives. For example, 中国的妈妈 means Chinese Mom. 
+
+A white spoon is 白的勺子。 
+
+他是一个美的中国人
+
+Some common phrases in Chinese are used so often that they elide the 的 because it is implied, like in 中国人,  美奴, 我妈妈.
+
+Rule: 的 should come **after** the adjective. 大的。我的巧克力。
+
+那个是我的 = That is mine!
+
+一个很美的美国人 = a beautiful American
+
+是的 = yes, that's correct 
+
+
+
+### Age，years, and numbers
+
+你多大？ = How old/big are you? 
+
+山 = shān = mountain 
+
+岁 = suì = measure word for "years old" 
+
+一个。 一块。一岁。  = one something. one unit of money. one year old. 
+
+你多大 = how "big" are you = how old are you?
+
+我二十二岁 = I am 22 years old. 
+
+心 = xīn = heart 
+
+小心 = small + heart = caution 
+
+中心 = center 
+
+[image-1]:	/assets/tones.png
+[image-2]:	/assets/pronouns.png
+[image-3]:	assets/image-20181105151125644.png
