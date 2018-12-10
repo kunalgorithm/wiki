@@ -52,7 +52,7 @@ There are 4 tones.
 
 4. Down tone?
 
-	![image-20181031155930813][image-1]
+	![image-20181031155930813](/assets/tones.png)
 
 ## People and Countries
 
@@ -136,7 +136,7 @@ Similarly, when followed by a fourth tone, a first tone changes to a second tone
 
 ## All Pronouns
 
-![image-20181102203657740][image-2]
+![image-20181102203657740](assets/pronouns.png)
 
 ## Measure Words
 
@@ -413,7 +413,7 @@ For example
 
 狗 = gǒu = dog = animal + sentence 
 
-![image-20181105151125644][image-3]
+![image-20181105151125644](assets/image-20181105151125644.png)
 
 猫 = māo = cat 🐱 = animal + grass + field
 
@@ -461,6 +461,101 @@ Rule: 的 should come **after** the adjective. 大的。我的巧克力。
 
 中心 = center 
 
-[image-1]:	/assets/tones.png
-[image-2]:	/assets/pronouns.png
-[image-3]:	assets/image-20181105151125644.png
+闷 = Depressed
+
+您 = nín = you, like 你, but polite. Has a little 心 at the bottom. 
+
+
+
+### To be able to 
+
+怕 = pà = to be scared of  
+
+可怕 = scary 
+
+不要 = don't 
+
+开 = kai = to open 
+
+开门 = to open a door. 
+
+Note: there's no distinction between "opening" a light and turning on a light. Same with "Opening" a car = starting a car. 
+
+
+
+### Open and Close 
+
+开始 = kāi shǐ = to start 
+
+我很开心 = I'm happy
+
+关 = guān = to close 
+
+关心 = to care 
+
+
+
+##  Vocab
+
+你多大 。 山。 岁。 一个。 一块。 一岁。我十岁。 我二十五岁。 心。 小心。 中心。 闷。 您。 怕。 我很怕。我很胖。可怕的。不要。开。不要开门。 开始。 我可以开始吗？开心。 关。关门。 关心。 开关。
+
+
+
+### Lesson 14
+
+怎 = zen (building block)  = how = 乍 suddenly  + 心 heart 
+
+乍  = zha = suddenly (building block)
+
+**什么 = shenme = what?** 
+
+**怎么 = zenme = how?** 
+
+怎么 + verb? = how do you + verb? 
+
+样 = yang = appearance 
+
+木 = （tree) , wood 🌳
+
+羊 = sheep 🐑
+
+你怎么样 = How is it going?
+
+工 =  gōng = work
+
+手工 = hand + work = handmade 
+
+作 = zuò = 人 + 乍 =  to make, to do
+
+业 = yè =  industry
+
+- different tone from 也 = yě = also 
+
+作业 = zuò yè = make + industry = homework 
+
+开业 = start a business 
+
+工作 = job, (to) work
+
+工作日 = working days = week days 
+
+大工 = manual work 
+
+怎么样 = how about? 
+
+做 = zuò = to do 
+
+你做什么？ = What are you doing? 
+
+你工作什么？What work do you do? 
+
+开关 = kai guan = switch
+
+
+
+
+
+
+
+
+

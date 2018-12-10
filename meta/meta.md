@@ -10,14 +10,13 @@
 
 - I use `git` from the command line to save and push changes to be published to Github.
 
-  ![git-push][image-1]
+  ![git-push][assets/git-push.png]
 
 ## Writing and Making Changes
 
 - I create folders and make other structural changes to the wiki using the command line or Sublime Text.
--
 - I write content using [Typora][5] because it's the simplest, most good-looking, distraction-free markdown editor I've found. I've previously used VSCode or Sublime text to write raw markdown directly.
-- ![Typora][image-2]
+- ![Typora][assets/typora.png]
 - My wiki is locally stored under my Dropbox Account, so I can made edits on my phone using the [Ulysses][6] app.
 
 ## Content Structure
@@ -50,5 +49,3 @@ Links related to learning (more) about the topic.
 [4]: wiki.kunal.space
 [5]: typora.io
 [6]: ulysses.app
-[image-1]: /Users/Kunal/Desktop/wiki/assets/git-push.png
-[image-2]: /assets/typora.png
