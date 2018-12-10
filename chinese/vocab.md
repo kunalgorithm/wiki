@@ -52,7 +52,7 @@ There are 4 tones.
 
 4. Down tone?
 
-	![image-20181031155930813](/assets/tones.png)
+	![assets/tones.png](assets/tones.png)
 
 ## People and Countries
 
@@ -136,7 +136,7 @@ Similarly, when followed by a fourth tone, a first tone changes to a second tone
 
 ## All Pronouns
 
-![image-20181102203657740](assets/pronouns.png)
+![assets/pronouns.png](assets/pronouns.png)
 
 ## Measure Words
 
