@@ -1,28 +1,33 @@
 # CSS and Styling
 
+## Libraries
 
+### CSS Libraries
 
-### CSS Libraries 
+- [Bootstrap](https://getbootstrap.com)
+- [Flexbox](http://flexboxgrid.com/)
+- [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
-- [Bootstrap](https://getbootstrap.com)  
-- Flexbox 
-- Grid 
+### React UI Libraries
 
+- [Reactstrap](http://reactstrap.github.io/) - Bootstrap 4 React components
+- [Blueprint by Palantir](https://blueprintjs.com/docs/)
+- [Smooth UI](https://smooth-ui.smooth-code.com/)
+- [React Toolbok](http://react-toolbox.io/#/)
+- [Rebass](https://github.com/rebassjs/rebass)
 
+### CSS-in-JS
 
-React UI Libraries 
+- [Inline-styles](https://reactjs.org/docs/dom-elements.html): The default choice.
+- [styled-jsx](https://github.com/zeit/styled-jsx) by [ZEIT](https://zeit.co)
+- [Styled Components](https://www.styled-components.com/) by Max Stoebler
+- [Emotion](https://emotion.sh/)
 
-- Reactstrap - Bootstrap 4 React components 
-- Blueprint by Palantir 
-- Smooth UI
-- React Toolkit 
+## Resources
 
+- [Storybook](https://storybook.js.org/)
+- [Bit](https://bitsrc.io)
 
+## Links
 
-CSS-in-JS 
-
-- Inline-styles: The default choice. 
-- styled-jsx by ZEIT 
-- Styled Components by Max Stoebler 
-- Emotion 
-- 
+- [4 Ways to Style React Components](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
