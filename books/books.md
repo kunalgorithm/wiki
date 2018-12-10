@@ -2,13 +2,6 @@
 
 How To Read A Book - Charles Van Doren, Adler J. Mortimer
 
-## Sections:
-
-- [Science](books/science.html)
-- [Life](books/life.html)
-- [Work](books/work.html)
-- [Fiction](books/fiction.html)
-
 ## Reading list:
 
 - Emotional Intelligence 2.0
