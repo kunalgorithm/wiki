@@ -24,5 +24,8 @@
   - [TypeScript](programming/typescript.md)
   - [Elm](programming/elm.md)
   - [Git Branching](programming/git-branching.md)
+- [Physics](physics/Physics.md)
+  - [Kinematics](physics/Kinematics.md)
+  - [Thermodynamics](physics/Thermodynamics.md)
 - [Chinese](chinese/chinese.md)
   - [Vocabulary](chinese/vocab.md)
