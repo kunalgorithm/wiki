@@ -12,6 +12,7 @@ I write mostly about programming, tools and technology.
 
 I share random photos and stories there.
 
-## Knowledge in [this wiki](../README.md)
+## Knowledge in [this wiki](./)
 
 I share stuff I know in form of this wiki here.
+
