@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Meta](meta.md)
-* [Sharing](sharing.md)
 * [Online Courses](online-courses.md)
 * [Mac](mac/README.md)
   * [Shortcuts](mac/shortcuts.md)
