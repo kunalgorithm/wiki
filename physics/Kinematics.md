@@ -154,11 +154,28 @@ Isaac Newton was an English physicist, mathematician (or "natural philosopher" a
 Newton dictated three laws of motion, which describe the relationship between a body, the forces acting upon it, and its motion in response to said forces. 
 
 1. **First Law** (also referred to as the *law of inertia*) states that a body in motion will stay in motion. 
+
+   A static object with no net force acting on it remains at rest or if in movement it will maintain a constant velocity. 
+
 2. **Second Law** The vector sum of the external fores F on an object is equal to the mass m of that object multiplied by the acceleration vector a of the object, or $F=ma$.
+
 3. **Third Law** states that one body exerts a force on a second body, the second body simultaneously exerts a force equal in magnitude and opposity in direction on the first body. 
 
 
 
+### Force
+
+A net force on a body causes a body to accelerate. The amount of acceleration depends on the body's **inertia** (or its tendency to resist changes in motion) which is measured as its **mass**. Newtonian mechanics describes these interactions as three fundamental laws of motion. 
+
+- Intertia is not a force
+- Inertia varies directly with mass
+
+Later, Einstein proved that these laws are just a convenient approximation. These laws, however, simplify calculations and are used when studying objects at velocities that are small compared with the speed of light. 
 
 
 
+### Friction
+
+**The force that opposes relative motion or tendency of relative motion between two surfaces in contact.** 
+
+Friction, represented by f, acts on both surfaces in contact with equal magnitude and opposite directions (Newton's 3rd law).
