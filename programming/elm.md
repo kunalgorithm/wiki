@@ -1,10 +1,10 @@
-# Elm 
+# Elm
 
-A functional language that compiles to Javascript used to build websites and web apps. It has **no** runtime errors. 
+A functional language that compiles to Javascript used to build websites and web apps. It has **no** runtime errors.
 
 It's simple to get started and you can build a complete full-stack application in one file and just a few lines. Here's a counter, for example:
 
-```elm
+```text
 import Browser
 import Html exposing (Html, button, div, text)
 import Html.Events exposing (onClick)
@@ -30,9 +30,8 @@ view model =
     ]
 ```
 
-
-
 ## Resources
 
-- [Official Elm Guide](https://guide.elm-lang.org)
-- [Todo App Demo](https://evancz.github.io/elm-todomvc/#/)
+* [Official Elm Guide](https://guide.elm-lang.org)
+* [Todo App Demo](https://evancz.github.io/elm-todomvc/#/)
+

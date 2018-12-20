@@ -1,4 +1,4 @@
-# Keyboard Shortcuts
+# Shortcuts
 
 `⌘-Space` - Spotlight
 
@@ -6,4 +6,5 @@
 
 `Caps Lock` - Switch Languages 中国 三-Q
 
-![Keyboard](/assets/keyboard.png)
+![Keyboard](../.gitbook/assets/keyboard.png)
+
